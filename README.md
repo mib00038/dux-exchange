@@ -31,6 +31,19 @@ functionality our UX designer has envisioned. It too resides in this repository,
 
 Building the SPA is up to you!
 
+### Prerequisites
+The API is written in Go and as such you will need to [install Go](https://golang.org/doc/install) on your system.
+
+To run the API execute the following command from the `api` directory:
+```
+go run main.go
+```
+
+To run its tests issue the following command from the `api` directory:
+```
+go test ./...
+```
+
 ### Features
 Below you'll find the features we want in the SPA, as well as their descriptions. Currently there is only one user 
 account, a test account, identified by the ID `RGFya3dpbmcgRHVjawo=`. It's data is available through the API.
