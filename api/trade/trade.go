@@ -42,7 +42,7 @@ func validateTrade(timeLimit time.Time, o offer.Offer, t Trade, balance float64)
 	if t.Volume > o.Volume {
 		return errVolumeTooLarge
 	}
-	if o.CreatedOn.After(timeLimit) {
+	if o.CreatedOn.Before(timeLimit) {
 		return errOfferExpired
 	}
 
