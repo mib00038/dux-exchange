@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.offer-details-active, .active-paper {
+  background-color: #35356d !important;
+}
+
+.app-container {
+  background-color: #35356d !important;
+}
+
+.container {
+  padding-top: 1rem;
+}
+
+.layout {
+  height: 100%;
+}
+
+.border-blue {
+  border: 2px solid blue;
+}
+
+.h-100 {
+  height: 100%;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.offers-list {
+  list-style: none;
+  margin-bottom: 0;
+  padding: 0 1rem;
+}
+
+.list-header {
+  padding-bottom: 1rem;
+  font-weight: 600;
+}
+
+button.select-offer-button {
+  margin: 0.5rem 0;
+  width: 7rem;
+}
+
+.balance-details, .selected-offer-grid {
+  padding: 1rem;
+}
+
+div.order-controls {
+  margin-top: 1rem;
+}
+
+button.buy-button {
+  width: 100%;
+  padding: 1rem;
+}
+
+.green {
+  color: greenyellow;
+}
+
+.order-calculation {
+  font-size: 1rem;
+}
