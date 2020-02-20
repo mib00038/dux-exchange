@@ -1,28 +1,11 @@
-Katana Labs Frontend Assessment
+Frontend Assessment
 ===============================
-This repository holds the code and instructions for the Katana Labs Frontend Assessment. This assessment is meant to 
-give us insights into your capabilities as a frontend developer.
-
-Once you receive the assessment you will have 7 days to complete the assignment outlined below. Before the 8th day you 
-should hand in your solution in a zip file, by email, to the person who initially gave you the assignment. If you find 
-yourself short on time, try to deliver a few features well instead of a lot of them mediocre. The point is for us to 
-see how you develop software.
-
-After your solution has been reviewed a meeting will be planned where your solution will be discussed. Attention will 
-be given to the architecture you created, the technology choices you made and the overall solution you developed.
-
-If you need a bit of assistance, or some hints, you may reach out to the person who gave you the assignment. 
-Alternatively you could use a [rubber duckie](https://en.wikipedia.org/wiki/Rubber_duck_debugging) ;-).
-
-To make sure we can use this assessment for multiple candidates, we kindly request you not to share this repository or 
-it's contents with anyone.
-
-We wish you good luck and are keen to see your solution!
+This repository holds the code and instructions for a Frontend Assessment.
 
 # Assignment
 
 ## Dux
-Recently the market for rubber duckies has seen a major uptake. We as Katana Labs want to get in on this squeaky action
+Recently the market for rubber duckies has seen a major uptake. We want to get in on this squeaky action
 by providing an application where users can easily buy and sell rubber duckies.
 
 Our UX designer has done extensive user research and came up with a wire frame for the application. It's stored as 
